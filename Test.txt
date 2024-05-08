@@ -1,1 +1,2 @@
 This is test file
+I have cloned the project and changed the content of this file
